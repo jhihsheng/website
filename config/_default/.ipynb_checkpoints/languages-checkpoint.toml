@@ -11,7 +11,7 @@
 [tw]
   languageCode = "tw"
   contentDir = "content/tw"
-  title = "理論光與物質"
+  title = "量子奈米光學"
   [tw.params]
     description = "Site description in Chinese..."
   [[tw.menu.main]]
