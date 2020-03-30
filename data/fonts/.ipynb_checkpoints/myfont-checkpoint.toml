@@ -2,10 +2,10 @@
 name = "myfont"
 
 # Optional Google font URL
-google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700|Noto+Serif+TC"
+google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700|Noto+Serif+TC|Nothing+You+Could+Do"
 
 # Font families
-heading_font = "Noto Serif TC"
+heading_font = "Nothing You Could Do"
 body_font = "Noto Serif TC"
 nav_font = "Noto Serif TC"
 mono_font = "Noto Serif TC"
