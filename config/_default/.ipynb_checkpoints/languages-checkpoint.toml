@@ -6,7 +6,8 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-
+    [en.params]
+  font = "Rose"
 # Uncomment the lines below to configure your website in a second language.
 [tw]
   languageCode = "tw"
@@ -14,6 +15,7 @@
   title = "量子奈米光學"
   [tw.params]
     description = "Site description in Chinese..."
+     font = "myfont"
   [[tw.menu.main]]
     name = "關於"
     url = "#about"

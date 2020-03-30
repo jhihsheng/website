@@ -1,0 +1,12 @@
+# Font style metadata
+name = "myfont"
+
+# Optional Google font URL
+google_fonts = "Cutive+Mono|Lora:400,700|Roboto:400,700|Noto+Serif+TC"
+
+# Font families
+heading_font = "Noto Serif TC"
+body_font = "Noto Serif TC"
+nav_font = "Noto Serif TC"
+mono_font = "Noto Serif TC"
+
